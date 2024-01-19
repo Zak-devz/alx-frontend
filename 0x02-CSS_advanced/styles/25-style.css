@@ -212,7 +212,7 @@ html {
   --text-color: var(--color-white);
   --section-title-color: var(--color-white);
   background-color: var(--color-black);
-  color: var(--button-color);
+  --button-color: var(--color-white);
 }
 
 body {
